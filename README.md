@@ -21,8 +21,9 @@ None! Just install and feel confident that `request.remote_ip` is doing its job.
 
 ## Contributing
 
-
-
+- Fork the repo. There's a default devcontainer configuration you can use to get up and running.
+- Make your changes, make sure tests keep passing: `bundle exec rspec`
+- Open pull request
 
 ## License
 
